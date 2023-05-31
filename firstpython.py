@@ -1,0 +1,2 @@
+#fun
+print("hello word")
